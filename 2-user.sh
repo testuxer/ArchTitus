@@ -26,6 +26,7 @@ PKGS=(
 'autojump'
 'awesome-terminal-fonts'
 'dxvk-bin' # DXVK DirectX to Vulcan
+'goverlay-bin'
 'mangohud' # Gaming FPS Counter
 'mangohud-common'
 'nerd-fonts-fira-code'
