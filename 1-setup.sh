@@ -117,6 +117,7 @@ PKGS=(
 'm4'
 'make'
 'milou'
+'mpv'
 'nano'
 'neofetch'
 'networkmanager'
