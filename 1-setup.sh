@@ -146,7 +146,6 @@ PKGS=(
 'spectacle'
 'sudo'
 'swtpm'
-'synergy'
 'systemsettings'
 'terminus-font'
 'traceroute'
