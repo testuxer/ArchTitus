@@ -112,6 +112,8 @@ PKGS=(
 'linux'
 'linux-firmware'
 'linux-headers'
+'linux-zen'
+'linux-zen-headers'
 'lsof'
 'lutris'
 'lzop'
