@@ -131,6 +131,7 @@ PKGS=(
 'pacman-contrib'
 'patch'
 'picom'
+'piper'
 'pkgconf'
 'powerline-fonts'
 'print-manager'
